@@ -49,6 +49,4 @@ An AI-powered tool for managing personal finances with features like budget reco
 
 ----------
 
-## License
 
-[MIT](LICENSE) License. 
