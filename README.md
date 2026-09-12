@@ -52,7 +52,7 @@ Start:
 streamlit run main.py
 ```
 
-Open `http://localhost:8501`.
+Open :https://personal-finance-assistant-ai-agent-d5lp4ihsyrzwgyciwpkcht.streamlit.app/
 
 ## Sample real-time tests
 
